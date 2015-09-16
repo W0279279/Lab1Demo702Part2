@@ -9,7 +9,7 @@
             ?>
         </h1>
         <?php
-            echo "<p> Some crazy text...</p>"
+            echo "<p> Some crazier text...</p>"
         ?>
         </body>
     </html>
